@@ -1,0 +1,54 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#39D2C0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <!-- neural-net / feature-point motif, right side -->
+  <g stroke="#58A6FF" stroke-opacity="0.35" stroke-width="1.2">
+    <line x1="780" y1="60" x2="880" y2="100"/>
+    <line x1="780" y1="60" x2="850" y2="170"/>
+    <line x1="880" y1="100" x2="950" y2="80"/>
+    <line x1="880" y1="100" x2="850" y2="170"/>
+    <line x1="850" y1="170" x2="940" y2="200"/>
+    <line x1="950" y1="80" x2="1040" y2="60"/>
+    <line x1="950" y1="80" x2="1010" y2="150"/>
+    <line x1="940" y1="200" x2="1010" y2="150"/>
+    <line x1="1010" y1="150" x2="1090" y2="120"/>
+    <line x1="1040" y1="60" x2="1090" y2="120"/>
+    <line x1="1090" y1="120" x2="1140" y2="190"/>
+    <line x1="940" y1="200" x2="1020" y2="230"/>
+  </g>
+  <g fill="#58A6FF">
+    <circle cx="780" cy="60" r="4"/>
+    <circle cx="880" cy="100" r="5"/>
+    <circle cx="850" cy="170" r="4"/>
+    <circle cx="950" cy="80" r="4.5"/>
+    <circle cx="940" cy="200" r="4"/>
+    <circle cx="1040" cy="60" r="3.5"/>
+    <circle cx="1010" cy="150" r="5"/>
+    <circle cx="1090" cy="120" r="4.5"/>
+    <circle cx="1140" cy="190" r="3.5"/>
+    <circle cx="1020" cy="230" r="3.5"/>
+  </g>
+
+  <!-- accent rule -->
+  <rect x="80" y="96" width="64" height="6" rx="3" fill="url(#accent)"/>
+
+  <text x="80" y="150" font-family="Verdana, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#E6EDF3">AKSHIT SHARMA</text>
+  <text x="80" y="190" font-family="Verdana, Helvetica, Arial, sans-serif" font-size="20" fill="#8B949E">Computer Vision &#183; Applied Machine Learning &#183; Deployment</text>
+  <text x="80" y="222" font-family="Verdana, Helvetica, Arial, sans-serif" font-size="15" fill="#58A6FF">B.Tech CSE @ SRM Institute of Science and Technology</text>
+</svg>
