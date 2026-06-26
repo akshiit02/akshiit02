@@ -120,11 +120,29 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshiit02&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=6" width="96%" />
+![Repos](https://img.shields.io/badge/Public%20Repos-7-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![ML Projects](https://img.shields.io/badge/ML%20Projects-4-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
+&nbsp;
+![Live Demos](https://img.shields.io/badge/Live%20Demos-2-3DDC84?style=for-the-badge&logo=vercel&logoColor=white)
+&nbsp;
+![Accuracy](https://img.shields.io/badge/Best%20Model%20Accuracy-98%25-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<br/><br/>
+
+![CV](https://img.shields.io/badge/Computer%20Vision-Expert-58A6FF?style=flat-square&logo=opencv&logoColor=white)
+&nbsp;
+![DL](https://img.shields.io/badge/Deep%20Learning-Advanced-FF6B6B?style=flat-square&logo=pytorch&logoColor=white)
+&nbsp;
+![MLOps](https://img.shields.io/badge/MLOps-Intermediate-3DDC84?style=flat-square&logo=docker&logoColor=white)
+&nbsp;
+![Backend](https://img.shields.io/badge/Backend%20APIs-Intermediate-FFD700?style=flat-square&logo=fastapi&logoColor=white)
+&nbsp;
+![Satellite](https://img.shields.io/badge/Satellite%20Data-Applied-A855F7?style=flat-square&logo=nasa&logoColor=white)
 
 </div>
 
