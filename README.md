@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58A6FF&height=200&section=header&text=Akshit%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58A6FF&height=220&section=header&text=Akshit%20Sharma&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20AI%20Systems&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+deployable+AI+systems+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;B.Tech+CSE+%40+SRMIST;Turning+research+into+real+products+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+deployable+AI+systems+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;B.Tech+CSE+%40+SRMIST;Turning+research+into+real+products+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ```python
 class AkshitSharma:
@@ -55,17 +55,18 @@ me.say_hi()
 - 📫 **akshitt27@gmail.com**
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="4%"></td>
+<td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshiit02&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true&rank_icon=github&card_width=420" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api?username=akshiit02&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true&rank_icon=github&card_width=450" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshiit02&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&card_width=420" width="98%" />
+<img src="https://streak-stats.demolab.com/?user=akshiit02&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&card_width=450" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshiit02&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=6&card_width=420" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshiit02&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=6&card_width=450" width="100%" />
 
 </td>
 </tr>
@@ -123,7 +124,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshiit02&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=akshiit02&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=6" width="96%" />
 
 </div>
 
