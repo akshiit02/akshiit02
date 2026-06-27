@@ -85,7 +85,6 @@ me.say_hi()
 | 🌌 **Star Cluster Segmentation** | Automated detection and segmentation of star clusters in astronomical telescope images using YOLOv8 instance segmentation | `Python` `YOLOv8` `Computer Vision` | [→ Repo](https://github.com/akshiit02/Deep-Space-Star-Cluster-Segmentation) |
 | 🚶 **Pedestrian Detector** | Real-time pedestrian detection in video using YOLOv4-tiny + OpenCV DNN, with non-max suppression | `Python` `OpenCV` `YOLOv4` | [→ Repo](https://github.com/akshiit02/Pedestrian-Detector) |
 | 🌐 **TradeConnect** | Responsive export-sourcing brokerage site with scroll animations & contact form | `HTML` `CSS` `JavaScript` | [→ Repo](https://github.com/akshiit02/TradeConnect) · [▶ Live](https://akshiit02.github.io/TradeConnect/) |
-| 🎮 **2048 Game** | Browser-based 2048 clone from scratch — vanilla JS, live score, arrow-key controls | `JavaScript` `HTML` `CSS` | [→ Repo](https://github.com/akshiit02/2048-Game) · [▶ Live](https://akshiit02.github.io/2048-Game/) |
 
 </div>
 
